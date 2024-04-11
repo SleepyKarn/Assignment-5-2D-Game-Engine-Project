@@ -7,6 +7,6 @@ How to play:
 left arrow key and right arrow key to move player left and right.
 Spacebar makes player jump.
 Avoid traps and make it to the end to get the trophy.
-hitting traps kills the player and makes you restet the level.
+hitting traps kills the player and makes you reset the level.
 (Please delete "SampleScene" in Scene folder before playing to make the game work well.)
 Thank you for your time.
